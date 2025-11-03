@@ -3,7 +3,7 @@
 This project demonstrates automating Docker image builds and deployments using GitHub Actions.
 
 ## How It Works
-- The `Dockerfile` compiles and runs the Java program inside Docker.
+- The `Dockerfile` compiles and runs the Java program to and inside Docker.
 - GitHub Actions automatically builds and pushes the image to Docker Hub when code is pushed.
 
 ## Commands
